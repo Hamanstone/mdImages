@@ -1,0 +1,2 @@
+# mdImages
+Only store photos
