@@ -17,26 +17,6 @@ int main(){
 ```
 
 ```bash
-# wifi console
-wifi config set ssid 0 Xiaomi_A154
-wifi config set psk 0 stoneonly
-wifi config set reload
-
-# ISP console
-cmif-debug sys ota 192.168.31.53 20000
-```
-
-```bash
-# wifi console
-wifi config set ssid 0 ParakeetAssist
-wifi config set psk 0 12345678
-wifi config set reload
-
-# ISP console
-cmif-debug sys ota 192.168.31.53 20000
-```
-
-```bash
 # try tftp command
 tftp -g -r test.raw 192.168.100.102
 ```
