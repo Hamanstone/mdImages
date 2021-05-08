@@ -1,8 +1,6 @@
-Title
+## Title
 
-*stone* **stone** \* \#
-
-```c
+```js
 int main(){
     print("Stone goood %s", job);
     return 0;
@@ -30,4 +28,4 @@ $$\int_{-\infty}^\infty e^{-x^2} = \sqrt{\pi}$$
 1. WIFI AP setup
 2. tftp server setup
 3. ISP console and WIFI console connected
-4. 
+4.
